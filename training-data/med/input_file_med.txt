@@ -1,0 +1,42 @@
+# https://havenlife.com/blog/life-insurance-underwriting/
+
+To determine a fair price for your policy, your insurance company will want to know about the current state of your health in a process known as medical underwriting. This means you’ll be asked questions about your age, weight, height, medical history, your lifestyle choices, and any other variables that might influence your future health. These questions are ultimately used to inform the underwriting process where the insurance company assesses the risk of providing you with coverage.
+
+If your insurer determines that you are a low-risk prospect, your premiums will likely be lower than a high-risk prospect of the same age. For people with riskier health profiles, insurers may charge a higher monthly premium, exclude certain kinds of coverage, limit the amount of coverage offered, or even refuse to offer coverage at all.
+
+Every insurer has its own underwriting process. The process of medical underwriting for a Haven Term policy, issued by our parent company MassMutual, looks like the following:
+(1) Submit an application
+(2) Third-party data sources
+(3) Attending physician statement
+(4) Placing you in a life insurance underwriting class
+
+What is an underwriting class?
+
+An underwriting class is a way of segmenting people into risk groups. People in a preferred rate class pay a lower premium than people in a standard class for the same amount of coverage, assuming non-health factors (e.g., age, gender, etc.) are the same. 
+
+Why do insurance companies/underwriters use rate classes? 
+Doing so allows insurers to have a more granular understanding of expected mortality for pricing and valuations, and thus to determine the appropriate premium amount based on risk and set the premium accordingly.
+
+
+Q: What will an insurer want to know to determine your fair price for your policy?
+A: current state of your health
+
+Q: What does every insurer have on its own?
+A: underwriting process
+
+Q: Will your premiums be low or high if you are a low-risk prospect?
+A: low
+
+Q: Will your premiums be low or high if you are a high-risk prospect?
+A: high
+
+Q: What questions are used to inform underwriting process?
+A: Your age, weight, height, medical history, your lifestyle choices
+
+Q: What is an underwriting class?
+A: It is a way of segmenting people into risk groups
+
+Q: Why do insurance companies use underwriting class?
+A: To determine appropriate premium amount based on risk
+
+Q: What is the parent company of Haven
